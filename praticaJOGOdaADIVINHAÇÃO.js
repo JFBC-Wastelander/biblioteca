@@ -3,7 +3,7 @@ var numeroParaAdivinhar = Math.floor(Math.random() * 21);
 var respostaUm = "";
 var i = 5;
 
-process.stdout.write(
+console.log(
   `O jogo consiste em você tente adivinhar um número entre 0 e 10!\nATENÇÃO: VOCÊ TEM APENAS 5 TENTATIVAS!\nDigite "Sair" para encerrar!\n`
 );
 
