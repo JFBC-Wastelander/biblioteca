@@ -1,5 +1,5 @@
 var numerosAdivinhados = [];
-var numeroParaAdivinhar = Math.floor(Math.random() * 21);
+var numeroParaAdivinhar = Math.floor(Math.random() * 201);
 var respostaUm = "";
 var i = 5;
 
